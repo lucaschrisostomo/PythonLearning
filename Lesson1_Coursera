@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>My Bio</title>
+        <link rel="stylesheet" href="bootstrap.min.css">
+    </head>
+
+    <body>
+        <!-- Crinado o container para trabalhar com o bootstrap no sistema de grid -->
+        <div class="container">
+            <div class="row">
+                <!-- Primeiro item do grid do BOOTSTRAP-->
+                <div id="bio" class="col -12 col-xl-6 text-justify">
+                    <h1>Lucas Prata</h1>
+                    <img src="../Semana_2/Lesson1/Images/salad.jfif" class="img-fluid" >
+                    <p>Just a regular dude trying to find his place in this mess and enjoy what life provides. In short, 
+                        bicycle riding, running and swimming</p>
+                    <p>An engineer looking for peace, tranquility and lots of kilometers on his bike</p>
+                </div>
+                <!-- Segundo item do grid do BOOTSTRAP-->
+                <div id="more" class="col-12 col-xl-6">
+                    <h2>Favorite Music Artitsts</h2>
+                    <!--Criando uma lista sem ordenação (Unordered List)-->
+                    <ul>
+                        <li>Metallica</li>
+                        <li>Guns n' Roses</li>
+                        <li>The Beatles</li>
+                        <li>Iron Maiden</li>
+                        <li>Oasis</li>
+                    </ul>
+                <div class=" col-12 col-xl-6">
+                    <h2>Favourite Movies</h2>
+                    <!--Criando uma lista ordenada (Ordered List)-->
+                    <ol>
+                        <li>Star Wars</li>
+                        <li>Pulp Fiction</li>
+                        <li>Lord of the Rings</li>
+                        <li>Marvel Movies</li>
+                    </ol>
+                </div>
+                <div class="col-12 col-xl-6">
+                    <h2>Favorite Sports</h2>
+                    <ol>
+                        <li>MTB</li>
+                        <li>Cycling</li>
+                        <li>Footbal (EN)/Soccer (US)</li>
+                        <li>Swimming</li>
+                        <li>Running</li>
+                    </ol>
+                </div>
+                    <!-- Criando um link para redirecionar para outra webpage-->
+                    <a href = "https://www.meta.com/user/123">
+                        <button type="button" class="btn btn-primary">
+                            My Meta Profile
+                        </button>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <script src="bootstrap.bundle.min.js"></script>
+    </body>
+</html>
