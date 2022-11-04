@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaschrisostomo
 - 👀 I’m interested in Programming in languages C/C++, Python, R
-- 🌱 I’m currently learning R Lanaguage and how to work with Back-End Developer
+- 🌱 I’m currently learning R and Python Language and how to work with Back-End Developer
 - 💞️ I’m looking to collaborate on C/C++ languages and Embedded Systems
 - 📫 How to reach me lucas.chrisostomo@gmail.com
 
